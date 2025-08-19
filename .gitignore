@@ -1,3 +1,5 @@
+.env
+agent/
 agent/Lib/site-packages/_black_version.py
 agent/Lib/site-packages/_cffi_backend.cp311-win_amd64.pyd
 agent/Lib/site-packages/.DS_Store
